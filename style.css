@@ -104,6 +104,7 @@ body {
 
   &:hover {
     background-color: #FBCE51;
+    border: 1px solid #FBCE51;
     color: #1F1F1F;
   }
 }
@@ -123,6 +124,7 @@ body {
 
   &:hover {
     background-color: #1F1F1F;
+    border: 1px solid #1F1F1F;
     color: #FFFFFF;
   }
 }
