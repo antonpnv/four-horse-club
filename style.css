@@ -98,6 +98,7 @@ body {
   line-height: 130%;
   color: #FFFFFF;
   background-color: #1F1F1F;
+  border: solid 2px #1F1F1F;
   padding: 20px 40px;
   border-radius: 66px;
   transition: background 0.1s linear;
@@ -124,7 +125,7 @@ body {
 
   &:hover {
     background-color: #1F1F1F;
-    border: 1px solid #1F1F1F;
+    border: 2px solid #1F1F1F;
     color: #FFFFFF;
   }
 }
